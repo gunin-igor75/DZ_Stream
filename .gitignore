@@ -1,0 +1,10 @@
+/.idea/
+/.mvn/
+/src/main/resources/
+/src/test/
+/target/
+/DZ_Stream.iml
+/HELP.md
+/mvnw
+/mvnw.cmd
+/pom.xml
